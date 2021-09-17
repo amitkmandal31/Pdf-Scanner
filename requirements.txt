@@ -1,0 +1,7 @@
+opencv_python==4.5.2.52
+img2pdf==0.4.1
+pywin32==227
+numpy==1.19.2
+pytesseract==0.3.7
+Pillow==8.2.0
+PyPDF2==1.26.0
